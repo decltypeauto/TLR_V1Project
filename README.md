@@ -1,2 +1,2 @@
 # TLR_V1Project
-Arma 3 Project with ThatGuyHere, Cylinder, 1 additional
+Arma 3 Project with Imthatguyhere, Cylinder, 1 other.
